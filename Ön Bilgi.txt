@@ -1,0 +1,5 @@
+Web programlama projemiz bir kütüphane web sitesi olacaktır.İçerisinde öncelikle
+Admin girişi ve Üye girişi olacaktır.Üye girişi gerçekleştirildikten sonra Kütüphane
+içeriklerine erişim sağlayabilecektir.Web sitemizde kitaplar için kategoriler
+kitap özetleri yazar bilgileri Üye bigileri hakkımızda iletişim gibi vb..
+içerikler olacaktır.kısaca bu sekılde özetleyebiliriz.
